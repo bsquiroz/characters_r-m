@@ -13,10 +13,11 @@ Una sencilla aplicación móvil desarrollada en React Native con TypeScript, que
 ### Requisitos de Instalación
 
 - Asegúrate de tener instalados Node.js y npm para gestionar las dependencias.
-
 - Es necesario tener configurado un entorno de desarrollo de React Native y TypeScript para poder ejecutar y compilar la aplicación, ya sea en Windows o MacOs, aqui te dejo el [link](!https://reactnative.dev/docs/environment-setup)
-- Configuración y Ejecución
-  Clona este repositorio en tu sistema local.
+
+### Configuración y Ejecución
+
+- Clona este repositorio en tu sistema local.
 - Abre una terminal y navega hasta el directorio del proyecto.
 - Ejecuta npm install para instalar todas las dependencias necesarias.
 - Utiliza npm start para iniciar el servidor de desarrollo.
