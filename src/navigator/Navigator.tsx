@@ -2,7 +2,6 @@ import React from 'react';
 
 import {createStackNavigator} from '@react-navigation/stack';
 import {Character, Home} from '../screens';
-import {Container} from '../components';
 import {useAppContext} from '../context/useAppContext';
 
 export type RootStackParams = {
